@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**GLEF1X/GLEF1X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi, I'm Gleb, a Junior Python Developer :alien: from Ukraine. 🔭 I’m currently working on [glQiwiApi](https://github.com/GLEF1X/glQiwiApi).
 
-Here are some ideas to get you started:
+- :pencil2: Python/ SQL / Docker
+- :mailbox: How to reach me: [@GLEF1X](https://t.me/GLEF1X) on Telegram 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Currently learning:
+- :kubernetes: Kubernetes
+- :whale: Nim
+
+<h3> 📈 My GitHub Stats</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=GLEF1X&show_icons=true&theme=gotham" alt="GLEF1X" width="100%" >
