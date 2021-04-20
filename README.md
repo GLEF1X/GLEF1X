@@ -7,7 +7,7 @@
 - :mailbox: How to reach me: [@GLEF1X](https://t.me/GLEF1X) on Telegram 
 
 #### Currently learning:
-- <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width="10%"> Kubernetes
+- <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width="1%"> Kubernetes
 - :whale: Nim
 
 <h3> 📈 My GitHub Stats</h3>
