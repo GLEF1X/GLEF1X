@@ -8,7 +8,7 @@
 
 #### Currently learning:
 - <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width="2%"> Kubernetes
-- :whale: Nim
+- :whale: Docker
 
 <h3> 📈 My GitHub Stats</h3>
 
