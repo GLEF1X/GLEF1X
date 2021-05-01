@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### I'm Gleb, a Junior Python Developer :alien: from Ukraine.
+### :alien: I'm Gleb, a Junior Python Developer from Ukraine.
 ### 🔭 I’m currently working on [glQiwiApi](https://github.com/GLEF1X/glQiwiApi).
 
 - :pencil2: Python/ SQL / Docker
