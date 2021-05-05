@@ -2,7 +2,7 @@
 
 ### :alien: I'm Gleb, a Junior Python Developer from Ukraine.
 
-- :pencil2: Python/ SQL / Docker
+- :pencil2: Python(FastAPI, asyncio, aiogram, django and etc)/ SQL / Docker
 - :mailbox: How to reach me: [@GLEF1X](https://t.me/GLEF1X) on Telegram 
 
 <h2> :sunglasses: My project <h2>
