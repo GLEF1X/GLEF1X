@@ -11,7 +11,7 @@
 #### Currently learning:
 - <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width="2%"> Kubernetes
 - :whale: Docker
-- <img src="https://emojis.slackmojis.com/emojis/images/1473972964/1163/redis.gif?1473972964" width="2%"> redis
+- <img src="https://emojis.slackmojis.com/emojis/images/1473972964/1163/redis.gif?1473972964" width="2%"> Redis
 
 <h3> 📈 My GitHub Stats</h3>
 
