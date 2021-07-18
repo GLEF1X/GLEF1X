@@ -12,6 +12,7 @@
 - <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width="2%"> Kubernetes
 - :whale: Docker
 - <img src="https://emojis.slackmojis.com/emojis/images/1473972964/1163/redis.gif?1473972964" width="2%"> Redis
+- <img src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" width="2%"> C++
 
 <h3> 📈 My GitHub Stats</h3>
 
