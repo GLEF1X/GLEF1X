@@ -16,4 +16,4 @@
 
 <h3> 📈 My GitHub Stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GLEF1X&show_icons=true&theme=gotham" alt="GLEF1X" width="70%" >
+<img src="https://github-readme-stats.vercel.app/api?username=GLEF1X&show_icons=true&theme=gotham" alt="GLEF1X" width="90%" >
