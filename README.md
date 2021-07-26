@@ -7,7 +7,7 @@
 
 <h2> :sunglasses: My projects <h2>
 <a href="https://github.com/GLEF1X/glQiwiApi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=glQiwiApi" alt="GLEF1X" width="45%" ></a>
-<a href="https://github.com/GLEF1X/FastAPI_proj"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=FastAPI_proj" alt="GLEF1X" width="45%" ></a>
+<a href="https://github.com/GLEF1X/FastAPI_proj"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=FastAPI_proj" alt="GLEF1X" width="50%" ></a>
 
 
 #### Currently learning:
