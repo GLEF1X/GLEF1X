@@ -5,9 +5,8 @@
 - :pencil2: Python(FastAPI, SQLAlchemy, asyncio, aiogram, django and etc)/ SQL(Postgresql) / Docker(-compose) / git
 - :mailbox: How to reach me: [@GLEF1X](https://t.me/GLEF1X) on Telegram 
 
-<h2> :sunglasses: My projects <h2>
+<h2> :sunglasses: My project <h2>
 <a href="https://github.com/GLEF1X/glQiwiApi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=glQiwiApi" alt="GLEF1X" width="45%" ></a>
-<a href="https://github.com/GLEF1X/django_shop"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=django_shop" alt="GLEF1X" width="45%" ></a>
 
 
 #### Currently learning:
