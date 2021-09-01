@@ -2,7 +2,7 @@
 
 ### :alien: I'm Glib, a Junior Python Developer from Ukraine.
 
-- :pencil2: Python(FastAPI, SQLAlchemy, asyncio, aiogram, django and etc)/ SQL(PostgreSQL) including PL/pgSQL / Docker(-compose) / git
+- :pencil2: Python(FastAPI, SQLAlchemy, asyncio, aiogram, django and etc)/ SQL(PostgreSQL) including PL/pgSQL / Docker(-compose) / git /rabbitmq / celery
 - :mailbox: How to reach me: [@GLEF1X](https://t.me/GLEF1X) on Telegram 
 
 <h2> :sunglasses: My projects <h2>
