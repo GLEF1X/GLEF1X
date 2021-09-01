@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :alien: I'm Gleb, a Junior Python Developer from Ukraine.
+### :alien: I'm Glib, a Junior Python Developer from Ukraine.
 
 - :pencil2: Python(FastAPI, SQLAlchemy, asyncio, aiogram, django and etc)/ SQL(Postgresql) / Docker(-compose) / git
 - :mailbox: How to reach me: [@GLEF1X](https://t.me/GLEF1X) on Telegram 
