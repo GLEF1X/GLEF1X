@@ -6,8 +6,8 @@
 - :mailbox: How to reach me: [@GLEF1X](https://t.me/GLEF1X) on Telegram 
 
 <h2> :sunglasses: My projects <h2>
-<a href="https://github.com/GLEF1X/glQiwiApi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=glQiwiApi" alt="GLEF1X" width="45%" ></a>
-<a href="https://github.com/GLEF1X/fastapi-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=fastapi-project" alt="GLEF1X" width="51%" ></a>
+<a href="https://github.com/GLEF1X/glQiwiApi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=glQiwiApi" alt="GLEF1X" width="40%" ></a>
+<a href="https://github.com/GLEF1X/fastapi-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=fastapi-project" alt="GLEF1X" width="40%" ></a>
 <a href="https://github.com/GLEF1X/golang-educational-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=golang-educational-API" alt="GLEF1X" width="40%" ></a>
 <a href="https://github.com/GLEF1X/apscheduler-di"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=apscheduler-di" alt="GLEF1X" width="43%" ></a>
 
