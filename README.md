@@ -23,4 +23,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=GLEF1X&show_icons=true&theme=dracula&count_private=true" alt="GLEF1X" width="90%" >
 <img src="https://komarev.com/ghpvc/?username=GLEF1X&color=red" alt="GLEF1X" width="1%">
-<img src="https://wakatime.com/badge/user/f0c92e8d-6011-4658-96a0-e38d12e01a8a.svg" alt="GLEF1X" width="50%">
+<img src="https://wakatime.com/badge/user/f0c92e8d-6011-4658-96a0-e38d12e01a8a.svg" alt="GLEF1X" width="10%">
