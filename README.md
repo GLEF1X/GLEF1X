@@ -19,7 +19,8 @@
 - <img src="https://emojis.slackmojis.com/emojis/images/1473972964/1163/redis.gif?1473972964" width="2%"> Redis
 - <img src="https://github.com/rfyiamcool/golang_logo/blob/master/svg/golang_2.svg" width="2%"> Go
 
-<h3> 📈 My GitHub Stats</h3>
+<h3> 📈 My stats</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=GLEF1X&show_icons=true&theme=dracula&count_private=true" alt="GLEF1X" width="90%" >
 <img src="https://komarev.com/ghpvc/?username=GLEF1X&color=red" alt="GLEF1X" width="1%">
+<img src="https://wakatime.com/badge/user/f0c92e8d-6011-4658-96a0-e38d12e01a8a.svg" alt="GLEF1X" width="50%">
