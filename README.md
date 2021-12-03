@@ -11,7 +11,7 @@
 <a href="https://github.com/GLEF1X/golang-educational-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=golang-educational-API" alt="GLEF1X" width="40%" ></a>
 <a href="https://github.com/GLEF1X/apscheduler-di"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=apscheduler-di" alt="GLEF1X" width="43%" ></a>
 <a href="https://github.com/GLEF1X/blacksheep-clean-architecture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=blacksheep-clean-architecture" alt="GLEF1X" width="39%" ></a>
- <a href="https://github.com/GLEF1X/go-qiwi-sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=blacksheep-clean-architecture" alt="GLEF1X" width="39%" ></a>
+ <a href="https://github.com/GLEF1X/go-qiwi-sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=go-qiwi-sdk" alt="GLEF1X" width="39%" ></a>
 
 
 #### Currently learning:
