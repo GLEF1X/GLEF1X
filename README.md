@@ -10,7 +10,7 @@
 <a href="https://github.com/GLEF1X/fastapi-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=fastapi-project" alt="GLEF1X" width="40%" ></a>
 <a href="https://github.com/GLEF1X/fastapi-admin2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=fastapi-admin2" alt="GLEF1X" width="40%" ></a>
 <a href="https://github.com/GLEF1X/apscheduler-di"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=apscheduler-di" alt="GLEF1X" width="43%" ></a>
-<a href="https://github.com/GLEF1X/fastapi-ratelimiter"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=blacksheep-clean-architecture" alt="GLEF1X" width="39%" ></a>
+<a href="https://github.com/GLEF1X/blacksheep-clean-architecture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=blacksheep-clean-architecture" alt="GLEF1X" width="39%" ></a>
  <a href="https://github.com/GLEF1X/go-qiwi-sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=go-qiwi-sdk" alt="GLEF1X" width="39%" ></a>
 
 
