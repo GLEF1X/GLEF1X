@@ -59,11 +59,6 @@ Tools:
  <a href="https://github.com/GLEF1X/go-qiwi-sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=go-qiwi-sdk" alt="GLEF1X" width="39%" ></a>
 
 
-#### Currently learning:
-- <img src="https://github.com/kubernetes/kubernetes/blob/master/logo/logo.svg" width="2%"> Kubernetes
-- :whale: Docker
-- <img src="https://emojis.slackmojis.com/emojis/images/1473972964/1163/redis.gif?1473972964" width="2%"> Redis
-- <img src="https://github.com/rfyiamcool/golang_logo/blob/master/svg/golang_2.svg" width="2%"> Go
 
 <h3> 📈 My stats</h3>
 
