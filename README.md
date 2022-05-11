@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :alien: I'm Glib, a Pre-Middle Python Developer from Ukraine.
+### :alien: I'm Glib, a Middle Python Developer from Ukraine.
 
 
 Languages:
