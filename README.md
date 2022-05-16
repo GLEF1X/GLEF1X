@@ -62,5 +62,5 @@ Tools:
 
 <h3> 📈 My stats</h3>
 
- <img src="https://wakatime.com/badge/user/f0c92e8d-6011-4658-96a0-e38d12e01a8a.svg" alt="GLEF1X" width="20%">
+ [![glef1x's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GLEF1X)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=GLEF1X&show_icons=true&theme=dracula&count_private=true" alt="GLEF1X" width="90%" >
