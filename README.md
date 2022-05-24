@@ -63,5 +63,4 @@ Tools:
 
 <h3> 📈 My stats</h3>
 
- [![glef1x's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=GLEF1X)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=GLEF1X&show_icons=true&theme=dracula&count_private=true" alt="GLEF1X" width="90%" >
