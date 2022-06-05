@@ -35,6 +35,7 @@ Message brokers:
 ![redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
 Logging: 
+
 ![zap](https://img.shields.io/badge/-zap-black?style=flat-square&logo=zap)
 ![zerolog](https://img.shields.io/badge/-zerolog-yellow?style=flat-square&logo=zerolog)
 ![elk](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
