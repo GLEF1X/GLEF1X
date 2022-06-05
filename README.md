@@ -10,7 +10,7 @@ Languages:
 ![Python](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
 
 
-Web frameworks that I use:
+Web frameworks:
 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=FastAPI)
 ![Django](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
@@ -34,7 +34,11 @@ Message brokers:
 ![rabbitmq](https://img.shields.io/badge/-RabbitMQ-black?style=flat-square&logo=rabbitmq)
 ![redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
-
+Logging: 
+![zap](https://img.shields.io/badge/-zap-black?style=flat-square&logo=zap)
+![zerolog](https://img.shields.io/badge/-zerolog-yellow?style=flat-square&logo=zerolog)
+![elk](https://img.shields.io/badge/-ElasticSearch-black?style=flat-square&logo=elasticsearch)
+![structlog](https://img.shields.io/badge/-structlog-black?style=flat-square&logo=structlog)
 
 Tools:
 
