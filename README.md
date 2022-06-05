@@ -64,9 +64,9 @@ Tools:
 <h3> 📈 My stats</h3>
 
 <p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotX12&theme=github_dark">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotX12&theme=github_dark">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dotX12&theme=github_dark"><br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GLEF1X&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GLEF1X&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GLEF1X&theme=github_dark"><br>
     </p>
 </a> 
 
