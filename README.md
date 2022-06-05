@@ -63,4 +63,10 @@ Tools:
 
 <h3> 📈 My stats</h3>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GLEF1X&show_icons=true&theme=dracula&count_private=true" alt="GLEF1X" width="90%" >
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dotX12&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dotX12&theme=github_dark">
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dotX12&theme=github_dark"><br>
+    </p>
+</a> 
+
