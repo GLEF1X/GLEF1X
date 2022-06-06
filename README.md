@@ -55,17 +55,6 @@ Tools:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-
-<h2> :sunglasses: My projects <h2>
-<a href="https://github.com/GLEF1X/glQiwiApi"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=glQiwiApi" alt="GLEF1X" width="40%" ></a>
-<a href="https://github.com/GLEF1X/fastapi-project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=fastapi-project" alt="GLEF1X" width="40%" ></a>
-<a href="https://github.com/GLEF1X/fastapi-admin2"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=fastapi-admin2" alt="GLEF1X" width="40%" ></a>
-<a href="https://github.com/GLEF1X/apscheduler-di"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=apscheduler-di" alt="GLEF1X" width="43%" ></a>
-<a href="https://github.com/GLEF1X/blacksheep-clean-architecture"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=blacksheep-clean-architecture" alt="GLEF1X" width="39%" ></a>
- <a href="https://github.com/GLEF1X/go-qiwi-sdk"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=go-qiwi-sdk" alt="GLEF1X" width="39%" ></a>
-  <a href="https://github.com/GLEF1X/sqlalchemy-pagination"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GLEF1X&repo=sqlalchemy-pagination" alt="GLEF1X" width="39%" ></a>
-
-
 <h3> 📈 My stats</h3>
 
 <p align="center">
