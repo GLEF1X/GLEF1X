@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### :alien: I'm Glib, a Middle Python/Go Developer from Ukraine.
+### :alien: I'm Glib, a Middle Python Developer from Ukraine. Sometimes I write some backend using Go.
 
 ## Technology stack
 
