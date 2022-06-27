@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-### :alien: I'm Glib, a Middle Python Developer from Ukraine. Sometimes I write backend using Go.
+### :alien: I'm a software developer from Ukraine. 🇺🇦 I'm currently dedicating a high percentage of my time to learn frontend development(Vue.js) and backend development using FastAPI and Flask.
 
-## Technology stack
+**I created [**Qiwi and YooMoney API wrapper aka glQiwiApi**](https://github.com/GLEF1X/glQiwiApi), [**apscheduler-di**](https://github.com/GLEF1X/apscheduler-di) and a bunch of other open source tools. 🚀**
+
+## My technology stack
 
 Languages:
 
