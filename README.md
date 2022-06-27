@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a software developer from Ukraine. 🇺🇦 I'm currently dedicating a high percentage of my time to learn frontend development(Vue.js) and backend development using FastAPI and Flask.
+#### I'm a software developer from Ukraine. 🇺🇦 I'm currently dedicating a high percentage of my time to learn frontend development(Vue.js) and backend development using FastAPI and Flask. I'm highly intersted in CI/CD and DevOps tools like kubernetes![k8s-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png), helm![helm-logo](https://helm.sh/img/helm.svg) and ansible![ansible-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png)
 
 **I created [**Qiwi and YooMoney API wrapper aka glQiwiApi**](https://github.com/GLEF1X/glQiwiApi), [**apscheduler-di**](https://github.com/GLEF1X/apscheduler-di) and a bunch of other open source tools. 🚀**
 
