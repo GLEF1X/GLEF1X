@@ -4,9 +4,8 @@
 
 **I created [**Qiwi and YooMoney API wrapper aka glQiwiApi**](https://github.com/GLEF1X/glQiwiApi), [**apscheduler-di**](https://github.com/GLEF1X/apscheduler-di) and a bunch of other open source tools. 🚀**
 
-<p align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GLEF1X&theme=github_dark">
-</p>
+
 
 ## My technology stack
 
