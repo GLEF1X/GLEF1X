@@ -57,7 +57,5 @@ Tools:
 
 <h3> 📈 My stats</h3>
 
-<p align="center">
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GLEF1X&theme=github_dark"
-</a> 
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GLEF1X&theme=github_dark">
 
