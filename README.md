@@ -54,5 +54,7 @@ Tools:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GLEF1X&theme=github_dark">
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GLEF1X&theme=github_dark">
+</p>
 
