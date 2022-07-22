@@ -3,11 +3,7 @@
 #### I'm a software developer from Ukraine. 🇺🇦
 
 **I'm currently dedicating a high percentage of my time to learn frontend development (Vue.js<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="20px" height="20px"></img> and advanced css) and backend development using FastAPI and Flask. I'm highly intrested in CI/CD and DevOps tools like kubernetes
-
 **I created [**Qiwi and YooMoney API wrapper aka glQiwiApi**](https://github.com/GLEF1X/glQiwiApi), [**apscheduler-di**](https://github.com/GLEF1X/apscheduler-di) and a bunch of other open source tools. 🚀**
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GLEF1X&theme=github_dark">
-
 
 ## My technology stack
 
