@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a software developer from Ukraine. 🇺🇦
+#### I'm a software developer from Ukraine. 🇺🇦 Currently, I'm living in New York, USA. 🇺🇸
 
 **I'm currently dedicating a high percentage of my time to learn frontend development (Vue.js<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="20px" height="20px"></img> and advanced css) and backend development using FastAPI and Flask. I'm highly intrested in CI/CD and DevOps tools like kubernetes**
 
