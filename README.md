@@ -2,16 +2,23 @@
 
 #### I'm a software developer from Ukraine. 🇺🇦
 
-**I'm currently dedicating a high percentage of my time to learn frontend development (Vue.js<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" width="20px" height="20px"></img> and advanced css) and backend development using FastAPI and Flask. I'm highly intrested in CI/CD and DevOps tools like kubernetes**
+**I'm currently dedicating a high percentage of my time to learn frontend development (mainly in React <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="13px" height="13px"/>) and backend development using FastAPI and Django. I'm highly intrested in web development and Rust <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/212px-Rust_programming_language_black_logo.svg.png?20220508043311" width="13px" height="13px"/>.**
 
 **I created [**Qiwi and YooMoney API wrapper aka glQiwiApi**](https://github.com/GLEF1X/glQiwiApi), [**apscheduler-di**](https://github.com/GLEF1X/apscheduler-di) and a bunch of other open source tools. 🚀**
+
+**You can find more information on [my website](https://glefix.xyz), which I am currently working on.**
 
 ## My technology stack
 
 Languages:
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Python](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![Golang](https://img.shields.io/badge/-Go-black?style=flat-square&logo=Go)
+![Javacript](https://img.shields.io/badge/-Javascript-red?style=flat-square&logo=Javascript)
+
+Frontend stuff:
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 
 
 Web frameworks:
@@ -25,7 +32,7 @@ Databases:
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=Postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
 
-Database drivers / libraries:
+Database related drivers / libraries:
 
 ![SqlAlchemy](https://img.shields.io/badge/-SQLAlchemy-red?style=flat-square&logo=sqlalchemy)
 ![asyncpg](https://img.shields.io/badge/-asyncpg-green?style=flat-square&logo=asyncpg)
@@ -57,5 +64,6 @@ Tools:
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-FCA121?style=flat-square&logo=Digitalocean)
 
 
