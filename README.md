@@ -19,6 +19,7 @@ Languages:
 Frontend stuff:
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
+![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
 
 
 Web frameworks:
