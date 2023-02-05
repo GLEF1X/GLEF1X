@@ -6,7 +6,7 @@
 
 **I created [**Qiwi and YooMoney API wrapper aka glQiwiApi**](https://github.com/GLEF1X/glQiwiApi), [**apscheduler-di**](https://github.com/GLEF1X/apscheduler-di) and a bunch of other open source tools. 🚀**
 
-**You can find more information on [my website](https://glefix.xyz), which I am currently working on.**
+**You can find more information on [my website](https://glefix.dev), which I am currently working on.**
 
 ## My technology stack
 
