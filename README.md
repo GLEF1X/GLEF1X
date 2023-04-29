@@ -18,6 +18,7 @@ Frontend stuff:
 
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=React)
 ![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat-square&logo=Typescript)
+![NextJS](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 
 
 Web frameworks:
