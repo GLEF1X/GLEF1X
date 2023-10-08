@@ -6,5 +6,5 @@
  and <img src="https://github.com/GLEF1X/GLEF1X/assets/71976818/53d19b2b-9abf-4e94-9388-b905f78edd39" width="27"></img>.**
 
 
-**You can find more information on [my website](https://glefix.dev), which I am currently working on.**
+**You can find more information on [my website](https://glefix.dev).**
 
